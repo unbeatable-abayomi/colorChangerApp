@@ -1,1 +1,1 @@
-.focus-in-expand{animation:focus-in-expand 6s cubic-bezier(.25,.46,.45,.94) infinite alternate both}@keyframes focus-in-expand{0%{letter-spacing:-.5em;filter:blur(12px);opacity:0}100%{filter:blur(0);opacity:1}}
+.tracking-in-contract-bck-bottom{animation:tracking-in-contract-bck-bottom 6s cubic-bezier(.215,.61,.355,1.000) both}@keyframes tracking-in-contract-bck-bottom{0%{letter-spacing:1em;transform:translateZ(400px) translateY(300px);opacity:0}40%{opacity:.6}100%{transform:translateZ(0) translateY(0);opacity:1}}
